@@ -7,9 +7,9 @@
 
 
 <div>
-<img align="center" source media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api?username=danielssf&show_icons=true&theme=radical&count_private=true" style="width: 40%,float:left " alt="danielssf" /> 
+<img align="center" source media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api?username=danielssf&show_icons=true&theme=radical&count_private=true" style="width: 45%,float:left " alt="danielssf" /> 
   
-<img align="center" source media="(prefers-color-scheme: dark)"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielssf&layout=compact&theme=radical&count_private=true&hide=java,c,makefile,cmake,c++&exclude_repo=DoubleLinkedListPrograIII" style="width: 40% " alt="danielssf" />
+<img align="center" source media="(prefers-color-scheme: dark)"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielssf&layout=compact&theme=radical&count_private=true&hide=java,c,makefile,cmake,c++&exclude_repo=DoubleLinkedListPrograIII" style="width: 45% " alt="danielssf" />
 </div>
 
 <div>

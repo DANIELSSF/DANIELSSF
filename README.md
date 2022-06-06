@@ -3,7 +3,7 @@
 
 - :technologist: I’m currently learning I'm currently learning and expanding my knowledge in programming.
 - When I'm not programming, I'm playing video games :video_game:, watching Anime :tv: or exercising. :muscle:
-- I would like to be a fullstack and video game developer in the future :man_technologist:.
+- I would like to be a fullstack and video game developer in the future :man_technologist:
 
 
 <div>

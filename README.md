@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Santiago</h1>
 <h3 align="center">A systems engineering student in full-stack development.</h3>
 
-- :technologist: I’m currently learning I'm currently learning and expanding my knowledge in programming.
-- When I'm not programming, I'm playing video games :video_game:, watching Anime :tv: or exercising. :muscle:
-- I would like to be a fullstack and video game developer in the future. :man_technologist:
+* :computer: I’m currently learning I'm currently learning and expanding my knowledge .
+* :purple_heart: When I'm not programming, I'm playing video games, watching Anime  or exercising. 
+* :small_blue_diamond: I would like to be a fullstack and video game developer in the future.
 
 
 <div>
@@ -32,6 +32,7 @@
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40"/> </a> 
 <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> 
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/> </a> 
 </p>
 </div>
 

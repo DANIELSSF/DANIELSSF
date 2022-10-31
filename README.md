@@ -36,6 +36,9 @@
 </p>
 </div>
 
+<div align="center">
+  <a><img src="https://holopin.me/danielssf" width="70%" height="240"/></a>
+</div>
 
 <div>
 <h2 align="left">Connect with me</h2>

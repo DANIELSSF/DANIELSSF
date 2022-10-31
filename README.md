@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <a><img src="https://holopin.me/danielssf" width="70%" height="240"/></a>
+  <a><img src="https://holopin.me/danielssf" width="70%" height="220"/></a>
 </div>
 
 <div>

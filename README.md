@@ -38,6 +38,7 @@
 
 <h1>Badges</h1>
 <details> <summary> Hacktoberfest 2022 </summary>
+<br/>
   
 [![@danielssf's Holopin board](https://holopin.me/danielssf)](https://holopin.io/@danielssf)
   

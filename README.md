@@ -36,10 +36,9 @@
 </p>
 </div>
 
-<h1>Hacktoberfest 2022</h1>
-<div align="center">
-  <a><img src="https://holopin.me/danielssf" width="70%" height="220"/></a>
-</div>
+<h1>Badges</h1>
+
+[![@danielssf's Holopin board](https://holopin.me/danielssf)](https://holopin.io/@danielssf)
 
 <div>
 <h2 align="left">Connect with me</h2>

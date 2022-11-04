@@ -37,8 +37,11 @@
 </div>
 
 <h1>Badges</h1>
-
+<details> <summary> Hacktoberfest 2022 </summary>
+  
 [![@danielssf's Holopin board](https://holopin.me/danielssf)](https://holopin.io/@danielssf)
+  
+</details>
 
 <div>
 <h2 align="left">Connect with me</h2>

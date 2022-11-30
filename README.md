@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel Santiago</h1>
 <h3 align="center">A systems engineering student in full-stack development.</h3>
 
-* :computer: I'm currently learning and expanding my knowledge .
+* :computer: I'm currently learning and expanding my knowledge.
 * :purple_heart: When I'm not programming, I'm playing video games, watching Anime  or exercising. 
 * :small_blue_diamond: I would like to be a fullstack and video game developer in the future.
 
 
 <div>
 <img align="center" source media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api?username=danielssf&show_icons=true&theme=radical&count_private=true" style="width: 40%,float:left " alt="danielssf"/> 
-  
 <img align="center" source media="(prefers-color-scheme: dark)"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielssf&layout=compact&theme=radical&count_private=true&hide=java,c,makefile,cmake,c++&exclude_repo=DoubleLinkedListPrograIII" style="width: 40%" alt="danielssf"/>
 </div>
 

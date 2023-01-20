@@ -31,7 +31,6 @@
 <a href="https://vitejs.dev/"> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40"/> </a> 
 <a href="https://www.java.com/es/"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
 <a href="https://jestjs.io/"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> 
-<a href="https://mui.com/"> <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/> </a> 
 </p>
 </div>
 

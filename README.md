@@ -38,7 +38,7 @@
 <div>
 <h2 align="left">Connect with me</h2>
 <p align="center">
-<a href="https://linkedin.com/in/daniel-santiago-silva" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="daniel-santiago-silva" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/daniel-ssf/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="daniel-santiago-silva" height="30" width="40"/></a>
 <a href="https://fb.com/danielssf730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danielssf730" height="30" width="40"/></a>
 <a href="https://instagram.com/daniel_ssf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_ssf" height="30" width="40"/></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danielssf&label=Profile%20views&color=800080" alt="danielssf"/> </p>

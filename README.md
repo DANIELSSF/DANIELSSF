@@ -20,7 +20,8 @@
 <a href="https://www.mongodb.com/"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a> 
+<a href="https://nodejs.org"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
+<a href="https://nodejs.org"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/></a> 
 <a href="https://reactjs.org/"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://expressjs.com"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>

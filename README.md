@@ -25,6 +25,7 @@
 <a href="https://reactjs.org/"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://expressjs.com"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>
+<a href="https://astro.build"> <img src="https://skillicons.dev/icons?i=astro" alt="astro" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.python.org"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> 

@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Santiago</h1>
-<h3 align="center">A systems engineering student in full-stack development.</h3>
-
-* :computer: I'm currently learning and expanding my knowledge.
-* :purple_heart: When I'm not programming, I'm playing video games, watching Anime  or exercising. 
-* :small_blue_diamond: I would like to be a fullstack and video game developer in the future.
-
+<p>
+  <strong>Systems Engineer</strong> focused on <strong>full-stack development</strong>. Proficient in 💚 <strong>Node.js</strong>, ☕ <strong>Java</strong>, and 💙 <strong>TypeScript</strong>, I build robust applications using ⚛️ <strong>React.js</strong>, 🔲 <strong>Next.js</strong>, and 🐈 <strong>NestJS</strong>. My commitment to clean code and software architecture excellence drives the development of efficient, scalable solutions. Currently exploring 🚀 <strong>Astro.js</strong> while continuously expanding my technical expertise.
+</p>
 
 <div>
 <img align="center" source media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api?username=danielssf&show_icons=true&theme=radical&count_private=true" style="width: 40%,float:left " alt="danielssf"/> 

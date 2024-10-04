@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Santiago</h1>
 <p>
-  <strong>Systems Engineer</strong> focused on <strong>full-stack development</strong>. Proficient in 💚 <strong>Node.js</strong>, ☕ <strong>Java</strong>, and 💙 <strong>TypeScript</strong>, I build robust applications using ⚛️ <strong>React.js</strong>, 🔲 <strong>Next.js</strong>, and 🐈 <strong>NestJS</strong>. My commitment to clean code and software architecture excellence drives the development of efficient, scalable solutions. Currently exploring 🚀 <strong>Astro.js</strong> while continuously expanding my technical expertise.
+  <strong>Systems Engineer</strong> focused on <strong>full-stack development</strong>. Proficient in 💚 <strong>Node.js</strong>, ☕ <strong>Java</strong>, and 💙 <strong>TypeScript</strong>, I build robust applications using ⚛️ <strong>React.js</strong>, 🔲 <strong>Next.js</strong>, and 🐈 <strong>Nest.js</strong>. My commitment to clean code and software architecture excellence drives the development of efficient, scalable solutions. Currently exploring 🚀 <strong>Astro.js</strong> while continuously expanding my technical expertise.
 </p>
 
 <div>

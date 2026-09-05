@@ -85,10 +85,14 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,go,gcp,aws,docker,postgres,mongodb,mysql&perline=11" alt="TypeScript, Node.js, NestJS, Express, Go, GCP, AWS, Docker, PostgreSQL, MongoDB, MySQL">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,go,java,gcp,aws,docker,postgres,mongodb,mysql&perline=12" alt="TypeScript, Node.js, NestJS, Express, Go, Java, GCP, AWS, Docker, PostgreSQL, MongoDB, MySQL">
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind&perline=4" alt="React, Next.js, Astro, Tailwind CSS">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin&perline=1" alt="Kotlin"><br>
+  <sub>Currently learning: Kotlin</sub>
 </p>
 
 <h2 align="center">Activity</h2>

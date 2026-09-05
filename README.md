@@ -1,47 +1,66 @@
-<h1 align="center">Hi 👋, I'm Daniel Santiago</h1>
-<p>
-  <strong>Systems Engineer</strong> focused on <strong>full-stack development</strong>. Proficient in 💚 <strong>Node.js</strong>, ☕ <strong>Java</strong>, and 💙 <strong>TypeScript</strong>, I build robust applications using ⚛️ <strong>React.js</strong>, 🔲 <strong>Next.js</strong>, and 🐈 <strong>Nest.js</strong>. My commitment to clean code and software architecture excellence drives the development of efficient, scalable solutions. Currently exploring 🚀 <strong>Astro.js</strong> while continuously expanding my technical expertise.
-</p>
+# Daniel Silva
 
-<div>
-<img align="center" source media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api?username=danielssf&show_icons=true&theme=radical&count_private=true" style="width: 40%,float:left " alt="danielssf"/> 
-<img align="center" source media="(prefers-color-scheme: dark)"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielssf&layout=compact&theme=radical&count_private=true&hide=java,c,makefile,cmake,c++&exclude_repo=DoubleLinkedListPrograIII" style="width: 40%" alt="danielssf"/>
-</div>
+**AI Engineer · Backend** — Node.js · TypeScript · NestJS · GCP
 
-<div>
-<h1>Languages and Tools</h1>
-<p align="center"> 
-<a href="https://www.w3schools.com/css/"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>  
-<a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
-<a href="https://nestjs.com/"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/></a> 
-<a href="https://reactjs.org/"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://expressjs.com"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>
-<a href="https://astro.build"> <img src="https://skillicons.dev/icons?i=astro" alt="astro" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.python.org"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://es.redux.js.org/"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> 
-<a href="https://vitejs.dev/"> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40"/> </a> 
-<a href="https://www.java.com/es/"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
-<a href="https://jestjs.io/"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> 
-</p>
-</div>
+Backend engineer who ships LLM features to production, not prototypes. Based in Colombia, fully remote since 2023 (UTC-5).
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--ssf-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ssf/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-live-111827?style=flat-square)](https://portfolio-danielssf-2787s-projects.vercel.app)
+[![Email](https://img.shields.io/badge/Email-daniel.santiago730%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daniel.santiago730@gmail.com)
 
-<div>
-<h2 align="left">Connect with me</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/daniel-ssf/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="daniel-santiago-silva" height="30" width="40"/></a>
-<a href="https://fb.com/danielssf730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danielssf730" height="30" width="40"/></a>
-<a href="https://instagram.com/daniel_ssf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_ssf" height="30" width="40"/></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=danielssf&label=Profile%20views&color=800080" alt="danielssf"/> </p>
-</p>
-</div>
+> [!NOTE]
+> Open to remote AI engineering and backend roles across LatAm and US time zones. Fastest way to reach me: [email](mailto:daniel.santiago730@gmail.com).
 
+## What I do
 
+- **LLM integration in production.** OpenAI API with function calling, orchestrating external systems (WhatsApp Business API, Google Calendar) as tools, with retries, rate limits and error handling on every model boundary.
+- **Backend systems.** Node.js and TypeScript services with NestJS, Clean Architecture and SOLID. Microservices on GCP (Cloud Run, GCS), PostgreSQL and MongoDB, Go where throughput matters.
+- **Agent-assisted engineering.** Daily dev loop with Claude Code and Codex: role-separated subagents (architect, coder, QA, security), a model tier per role, human review on every change.
+
+## Selected work
+
+**WhatsApp customer-service agent** · FOX Analytics · 2025 · private (employer)<br>
+OpenAI function calling lets the model invoke the Meta WhatsApp Business API and Google Calendar API as tools. Conversation and scheduling are automated end to end. Production hardening on each boundary: retries, rate limits, error handling.<br>
+`NestJS` `MySQL` `OpenAI API` `Meta WhatsApp API` `Google Calendar API`
+
+**Backend platform** · Estrellas App · 2025–present · private (employer)<br>
+Node.js and TypeScript microservices on GCP Cloud Run with Clean Architecture. Data design on MongoDB and PostgreSQL. Complementary Go services where throughput drives the design.<br>
+`Node.js` `TypeScript` `Go` `GCP` `MongoDB` `PostgreSQL`
+
+**Task-management platform** · FOX Analytics · 2025 · private (employer)<br>
+Full-stack NestJS, React and MySQL platform with secure auth, Swagger contracts, AWS S3 and SQL optimization. Increased task-management throughput by 40%.<br>
+`NestJS` `React` `MySQL` `AWS S3` `Swagger`
+
+**Port operations and medical booking** · Tecnología con Conciencia · 2024 · private (client)<br>
+NestJS and PostgreSQL backend for task and activity management at Puerto Antioquia. Medical appointment booking platform built end to end (Astro, NestJS, PostgreSQL) with a secure payment gateway.<br>
+`NestJS` `PostgreSQL` `Astro`
+
+## Public code
+
+- **[portfolio](https://github.com/DANIELSSF/portfolio)** — [Live](https://portfolio-danielssf-2787s-projects.vercel.app). Astro 6 with React islands, custom ES/EN i18n, Tailwind v4 theming, zero JavaScript by default.
+- **[RexBuy](https://github.com/DANIELSSF/RexBuy)** — Full-stack e-commerce: auth and roles, PayPal checkout, cart, reviews, favourites, search. Next.js, MongoDB, Docker. [Live](https://rex-buy.vercel.app)
+- **[doctors-backend](https://github.com/DANIELSSF/doctors-backend)** — NestJS backend for a medical-appointments product.
+- **[todo-list-back](https://github.com/DANIELSSF/todo-list-back)** · **[todo-list-front](https://github.com/DANIELSSF/todo-list-front)** — NestJS API in Docker with a Next.js client.
+- **[Pokedex-NestJS](https://github.com/DANIELSSF/Pokedex-NestJS)** — REST API on NestJS and MongoDB with docker-compose. Small and readable on purpose.
+
+## Stack
+
+**AI / LLM** — OpenAI API (chat, function calling) · Claude Code · Codex
+
+**Backend, cloud and data**
+
+![TypeScript, Node.js, NestJS, Express, Go, GCP, AWS, Docker, PostgreSQL, MongoDB, MySQL](https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,go,gcp,aws,docker,postgres,mongodb,mysql&perline=11)
+
+**Frontend**
+
+![React, Next.js, Astro, Tailwind CSS](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind&perline=4)
+
+## Now
+
+- Backend Engineer at **Estrellas App** (remote, since Jul 2025).
+- BSc in Systems and Computing Engineering — UPTC, Colombia (2024).
+- The direct part: I integrate and productionize LLMs as a backend engineer. I don't train models.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/daniel-ssf/) · [Portfolio](https://portfolio-danielssf-2787s-projects.vercel.app) · [daniel.santiago730@gmail.com](mailto:daniel.santiago730@gmail.com)

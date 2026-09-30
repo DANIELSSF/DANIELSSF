@@ -107,6 +107,5 @@
 </p>
 
 <p align="center">
-  <sub>Backend Engineer at <b>Estrellas App</b> · BSc Systems and Computing Engineering, UPTC · Colombia, remote since 2023</sub><br>
   <sub>I integrate and productionize LLMs as a backend engineer. I don't train models.</sub>
 </p>

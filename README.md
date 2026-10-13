@@ -43,6 +43,15 @@
 
 <table align="center">
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/DANIELSSF/Nook">Nook</a> <sub>· native macOS companion</sub></h3>
+      A native macOS app that brings selected Terminal tabs to the notch. Follow Claude Code and Codex, send messages, and catch questions and alerts from a compact island with an animated cat.<br><br>
+      <code>Swift</code> <code>SwiftUI</code> <code>AppKit</code> <code>SwiftTerm</code><br><br>
+      <a href="https://danielssf.github.io/Nook/"><img src="https://img.shields.io/badge/live-demo-0369a1?style=flat-square" alt="Nook live demo"></a>
+      <a href="https://github.com/DANIELSSF/Nook"><img src="https://img.shields.io/badge/code-github-18181b?style=flat-square&logo=github&logoColor=white" alt="Nook code"></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>WhatsApp AI agent <sub>· FOX Analytics · 2025</sub></h3>
       OpenAI function calling drives the Meta WhatsApp Business API and Google Calendar API as tools. Conversation and scheduling automated end to end, hardened for production.<br><br>
